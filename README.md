@@ -1,6 +1,6 @@
 ## Olá! eu sou o Lucas Marum 👋
 
-- Sou estudante de ciencias atuarias pela FEA-USP e membro da FEA-DEV, entidade que visa estudar programação, IA e Finanças quantitativas. Atualmente estou no início da minha jornada nessa aréa de programação e, por isso, estou dando os meus primeiros passos para me aperfeiçoar nela.
+- Sou estudante de Ciências Atuariais na FEA-USP e membro da FEA.dev, entidade que visa ao estudo de programação, IA e finanças quantitativas. Atualmente, estou no início da minha jornada na área de programação e, por isso, estou dando meus primeiros passos para me aperfeiçoar nela.
 
 ## Ferramentas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
